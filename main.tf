@@ -6,3 +6,8 @@ terraform {
         }
     }
 }
+
+resource "heroku_app" "notify" {
+  name= var.app_name
+  region = "us"
+}
