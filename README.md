@@ -1,2 +1,3 @@
-# tg-alert-infra
-# heroku infrastructure code for alert telegram bot
+## Tg-alert-infra
+---
+#### Heroku infrastructure code for alert telegram bot. Using Terraform
